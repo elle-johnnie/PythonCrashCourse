@@ -1,2 +1,4 @@
 # PythonCrashCourse
-exercises and other python practicing
+exercises within the book Python Crash Course
+
+https://nostarch.com/pythoncrashcourse
